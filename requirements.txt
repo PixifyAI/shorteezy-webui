@@ -1,0 +1,10 @@
+opencv-python
+openai
+pydub
+numpy
+TTS
+python-dotenv
+aiohttp
+aiofiles
+runware
+gradio
