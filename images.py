@@ -21,7 +21,7 @@ logger.addHandler(handler)
 # Load environment variables
 load_dotenv()
 
-RUNWARE_API_KEY = os.getenv("RUNWARE_API_KEY")
+RUNWARE_API_KEY = os.getenv("RUNWARE_API_KEY") #change to your runware api key
 
 print(RUNWARE_API_KEY)
 
